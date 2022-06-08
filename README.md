@@ -14,6 +14,7 @@
 
 ## Result :
 📍 A comparison of the area under the ROC and the accuracy of the model predictions shows that logistic regression performs best (accuracy of 0.87). Tree-based methods shows low accuracy.
+
 📍 Random forest has higher accuracy than support vector machine to detect heart disease.
 
  ## Languages used:
