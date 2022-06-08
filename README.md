@@ -17,6 +17,10 @@
 
 📍 Random forest has higher accuracy than support vector machine to detect heart disease.
 
+<a ><img src="https://raw.githubusercontent.com/nslatysheva/data_science_blogging/master/expanding_ML_toolkit/hyperparam_algos_logistic.png" height="200"/></a>
+
+
+
  ## Languages used:
 <code><img height="40" src="https://img.icons8.com/ios-filled/344/r.png"/></code>
 
